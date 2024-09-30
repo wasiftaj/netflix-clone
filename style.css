@@ -10,7 +10,6 @@ body {
     background-position: center;
     height: 100vh;
     display: flex;
-    filter: drop-shadow(50);
 }
 .innermain {
     display: flex;
